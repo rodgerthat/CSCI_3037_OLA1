@@ -1,0 +1,10 @@
+C:\Users\Joel\MTSU\CSCI_3037\norris-calGUI\calGUI\bin\Debug\calGUI.exe.config
+C:\Users\Joel\MTSU\CSCI_3037\norris-calGUI\calGUI\bin\Debug\calGUI.exe
+C:\Users\Joel\MTSU\CSCI_3037\norris-calGUI\calGUI\bin\Debug\calGUI.pdb
+C:\Users\Joel\MTSU\CSCI_3037\norris-calGUI\calGUI\obj\Debug\calGUI.csprojResolveAssemblyReference.cache
+C:\Users\Joel\MTSU\CSCI_3037\norris-calGUI\calGUI\obj\Debug\calGUI.Form1.resources
+C:\Users\Joel\MTSU\CSCI_3037\norris-calGUI\calGUI\obj\Debug\calGUI.Properties.Resources.resources
+C:\Users\Joel\MTSU\CSCI_3037\norris-calGUI\calGUI\obj\Debug\calGUI.csproj.GenerateResource.Cache
+C:\Users\Joel\MTSU\CSCI_3037\norris-calGUI\calGUI\obj\Debug\calGUI.csproj.CoreCompileInputs.cache
+C:\Users\Joel\MTSU\CSCI_3037\norris-calGUI\calGUI\obj\Debug\calGUI.exe
+C:\Users\Joel\MTSU\CSCI_3037\norris-calGUI\calGUI\obj\Debug\calGUI.pdb
